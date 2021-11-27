@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.15.1](https://www.github.com/WDaan/VueTorrent/compare/v0.15.0...v0.15.1) (2021-11-27)
+
+
+### Improvements
+
+* more translations ([4f8c697](https://www.github.com/WDaan/VueTorrent/commit/4f8c697757d818eeaf70d1c6970cd1f6000d6497))
+
 ## [0.15.0](https://www.github.com/WDaan/VueTorrent/compare/v0.14.0...v0.15.0) (2021-11-27)
 
 
